@@ -1,0 +1,62 @@
+.titulo{
+    width: auto;
+    height: auto;
+    background-color: chocolate;
+    display: block;
+    text-align: center
+}
+*{
+    text-align: center
+}
+.cuerpo{
+        width: auto;
+        height: auto;
+        background-color: bisque;
+        display: block;
+}
+.subconjunto2-forma1{
+    width: 1200px;
+    height: auto;
+}
+.subconjunto2-forma2{
+    width: 250px;
+    height: auto;
+
+}
+.subconjunto2{
+    width: auto;
+    height: auto;
+        background-color:gray;
+        display: inline-block;
+        text-align: left;
+        margin: 5px;
+   
+    
+}
+.derecha{
+    width: auto;
+    height: auto;
+    background-color: antiquewhite;
+    display: block;
+
+}
+.Articulo{
+    width: auto;
+    height: auto;
+    background-color: antiquewhite;
+
+    
+}
+.Images{
+    width: 300px;
+    height: 300px;
+    background-color: beige;
+    display: inline-block;
+    margin: auto;
+    border: auto;
+}
+.Final{
+    width:auto;
+    height: auto;
+    background-color: rgb(200, 191, 240);
+}
